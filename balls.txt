@@ -1,2 +1,6 @@
 blue ball.
+<<<<<<< HEAD
 red ball.
+=======
+green ball.
+>>>>>>> 9606d316dd052415330174806a5ef37ae0aeedc0
